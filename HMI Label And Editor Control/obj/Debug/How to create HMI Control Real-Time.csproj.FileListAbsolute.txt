@@ -1,0 +1,21 @@
+C:\Users\HOANGLUU\Documents\Visual Studio 2015\Projects\How to create HMI Control Real-Time\How to create HMI Control Real-Time\bin\Debug\How to create HMI Control Real-Time.exe.config
+C:\Users\HOANGLUU\Documents\Visual Studio 2015\Projects\How to create HMI Control Real-Time\How to create HMI Control Real-Time\bin\Debug\How to create HMI Control Real-Time.exe
+C:\Users\HOANGLUU\Documents\Visual Studio 2015\Projects\How to create HMI Control Real-Time\How to create HMI Control Real-Time\bin\Debug\How to create HMI Control Real-Time.pdb
+C:\Users\HOANGLUU\Documents\Visual Studio 2015\Projects\How to create HMI Control Real-Time\How to create HMI Control Real-Time\obj\Debug\How_to_create_HMI_Control_Real_Time.FormMain.resources
+C:\Users\HOANGLUU\Documents\Visual Studio 2015\Projects\How to create HMI Control Real-Time\How to create HMI Control Real-Time\obj\Debug\How_to_create_HMI_Control_Real_Time.Properties.Resources.resources
+C:\Users\HOANGLUU\Documents\Visual Studio 2015\Projects\How to create HMI Control Real-Time\How to create HMI Control Real-Time\obj\Debug\How to create HMI Control Real-Time.csproj.GenerateResource.Cache
+C:\Users\HOANGLUU\Documents\Visual Studio 2015\Projects\How to create HMI Control Real-Time\How to create HMI Control Real-Time\obj\Debug\How to create HMI Control Real-Time.exe
+C:\Users\HOANGLUU\Documents\Visual Studio 2015\Projects\How to create HMI Control Real-Time\How to create HMI Control Real-Time\obj\Debug\How to create HMI Control Real-Time.pdb
+C:\Users\HOANGLUU\Documents\Visual Studio 2015\Projects\How to create HMI Control Real-Time\How to create HMI Control Real-Time\obj\Debug\How to create HMI Control Real-Time.csprojResolveAssemblyReference.cache
+C:\Users\HOANGLUU\Downloads\How to create HMI Control Real-Time\How to create HMI Control Real-Time\bin\Debug\How to create HMI Control Real-Time.exe.config
+C:\Users\HOANGLUU\Downloads\How to create HMI Control Real-Time\How to create HMI Control Real-Time\bin\Debug\How to create HMI Control Real-Time.exe
+C:\Users\HOANGLUU\Downloads\How to create HMI Control Real-Time\How to create HMI Control Real-Time\bin\Debug\How to create HMI Control Real-Time.pdb
+C:\Users\HOANGLUU\Downloads\How to create HMI Control Real-Time\How to create HMI Control Real-Time\obj\Debug\How to create HMI Control Real-Time.csprojResolveAssemblyReference.cache
+C:\Users\HOANGLUU\Downloads\How to create HMI Control Real-Time\How to create HMI Control Real-Time\obj\Debug\How_to_create_HMI_Control_Real_Time.FormMain.resources
+C:\Users\HOANGLUU\Downloads\How to create HMI Control Real-Time\How to create HMI Control Real-Time\obj\Debug\How_to_create_HMI_Control_Real_Time.Properties.Resources.resources
+C:\Users\HOANGLUU\Downloads\How to create HMI Control Real-Time\How to create HMI Control Real-Time\obj\Debug\How to create HMI Control Real-Time.csproj.GenerateResource.Cache
+C:\Users\HOANGLUU\Downloads\How to create HMI Control Real-Time\How to create HMI Control Real-Time\obj\Debug\How to create HMI Control Real-Time.exe
+C:\Users\HOANGLUU\Downloads\How to create HMI Control Real-Time\How to create HMI Control Real-Time\obj\Debug\How to create HMI Control Real-Time.pdb
+C:\Users\HOANGLUU\Downloads\How to create HMI Editor Control\How to create HMI Editor Control\bin\Debug\How to create HMI Control Real-Time.exe.config
+C:\Users\HOANGLUU\Downloads\How to create HMI Editor Control\How to create HMI Editor Control\obj\Debug\How to create HMI Control Real-Time.exe
+C:\Users\HOANGLUU\Downloads\How to create HMI Editor Control\How to create HMI Editor Control\obj\Debug\How to create HMI Control Real-Time.pdb

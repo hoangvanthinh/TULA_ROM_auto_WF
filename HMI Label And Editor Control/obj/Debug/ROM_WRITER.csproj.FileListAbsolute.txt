@@ -1,0 +1,66 @@
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\bin\Debug\cvextern.dll
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\bin\Debug\msvcp120.dll
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\bin\Debug\msvcr120.dll
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\bin\Debug\opencv_ffmpeg310_64.dll
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\bin\Debug\How to create HMI Control Real-Time.exe.config
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\bin\Debug\How to create HMI Control Real-Time.exe
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\bin\Debug\How to create HMI Control Real-Time.pdb
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\bin\Debug\AForge.xml
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\bin\Debug\AForge.Imaging.xml
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\bin\Debug\AForge.Video.xml
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\bin\Debug\AForge.Video.DirectShow.xml
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\bin\Debug\Emgu.CV.UI.xml
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\bin\Debug\Emgu.CV.UI.GL.xml
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\bin\Debug\Emgu.CV.World.xml
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\obj\Debug\ROM_WRITER.csproj.How to create HMI Control Real-Time.exe.config
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\obj\Debug\How_to_create_HMI_Control_Real_Time.FormMain.resources
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\obj\Debug\How_to_create_HMI_Control_Real_Time.Properties.Resources.resources
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\obj\Debug\How_to_create_HMI_Control_Real_Time.System_config.resources
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\obj\Debug\ROM_WRITER.csproj.GenerateResource.Cache
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\obj\Debug\How to create HMI Control Real-Time.exe
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\obj\Debug\How to create HMI Control Real-Time.pdb
+F:\Project\Tula\Maynaprom\Code HMI\HMI 7.323_rev_160919\HMI Label And Editor Control\obj\Debug\ROM_WRITER.csprojResolveAssemblyReference.cache
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\bin\Debug\How to create HMI Control Real-Time.exe.config
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\obj\Debug\How to create HMI Control Real-Time.exe
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\obj\Debug\How to create HMI Control Real-Time.pdb
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\bin\Debug\cvextern.dll
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\bin\Debug\msvcp120.dll
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\bin\Debug\msvcr120.dll
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\bin\Debug\opencv_ffmpeg310_64.dll
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\bin\Debug\How to create HMI Control Real-Time.exe
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\bin\Debug\How to create HMI Control Real-Time.pdb
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\bin\Debug\AForge.xml
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\bin\Debug\AForge.Imaging.xml
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\bin\Debug\AForge.Video.xml
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\bin\Debug\AForge.Video.DirectShow.xml
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\bin\Debug\Emgu.CV.UI.xml
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\bin\Debug\Emgu.CV.UI.GL.xml
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\bin\Debug\Emgu.CV.World.xml
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\obj\Debug\ROM_WRITER.csprojResolveAssemblyReference.cache
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\obj\Debug\ROM_WRITER.csproj.How to create HMI Control Real-Time.exe.config
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\obj\Debug\How_to_create_HMI_Control_Real_Time.FormMain.resources
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\obj\Debug\How_to_create_HMI_Control_Real_Time.Properties.Resources.resources
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\obj\Debug\How_to_create_HMI_Control_Real_Time.System_config.resources
+F:\Project\Tula\Maynaprom\Code HMI\16.HMI 7.4_240919\HMI Label And Editor Control\obj\Debug\ROM_WRITER.csproj.GenerateResource.Cache
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\bin\Debug\How to create HMI Control Real-Time.exe.config
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\obj\Debug\How to create HMI Control Real-Time.exe
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\obj\Debug\How to create HMI Control Real-Time.pdb
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\bin\Debug\cvextern.dll
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\bin\Debug\msvcp120.dll
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\bin\Debug\msvcr120.dll
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\bin\Debug\opencv_ffmpeg310_64.dll
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\bin\Debug\How to create HMI Control Real-Time.exe
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\bin\Debug\How to create HMI Control Real-Time.pdb
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\bin\Debug\AForge.xml
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\bin\Debug\AForge.Imaging.xml
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\bin\Debug\AForge.Video.xml
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\bin\Debug\AForge.Video.DirectShow.xml
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\bin\Debug\Emgu.CV.UI.xml
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\bin\Debug\Emgu.CV.UI.GL.xml
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\bin\Debug\Emgu.CV.World.xml
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\obj\Debug\ROM_WRITER.csprojResolveAssemblyReference.cache
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\obj\Debug\ROM_WRITER.csproj.How to create HMI Control Real-Time.exe.config
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\obj\Debug\How_to_create_HMI_Control_Real_Time.FormMain.resources
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\obj\Debug\How_to_create_HMI_Control_Real_Time.Properties.Resources.resources
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\obj\Debug\How_to_create_HMI_Control_Real_Time.System_config.resources
+F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\obj\Debug\ROM_WRITER.csproj.GenerateResource.Cache
