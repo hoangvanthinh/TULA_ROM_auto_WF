@@ -1864,9 +1864,9 @@
             // 
             // Toado_X
             // 
-            this.Toado_X.Location = new System.Drawing.Point(122, 105);
+            this.Toado_X.Location = new System.Drawing.Point(122, 106);
             this.Toado_X.Name = "Toado_X";
-            this.Toado_X.Size = new System.Drawing.Size(100, 20);
+            this.Toado_X.Size = new System.Drawing.Size(53, 20);
             this.Toado_X.TabIndex = 131;
             // 
             // Toado_Y

@@ -64,3 +64,6 @@ F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Contro
 F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\obj\Debug\How_to_create_HMI_Control_Real_Time.Properties.Resources.resources
 F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\obj\Debug\How_to_create_HMI_Control_Real_Time.System_config.resources
 F:\Project\Tula\Maynaprom\Code HMI\17.HMI 7.5_280919\HMI Label And Editor Control\obj\Debug\ROM_WRITER.csproj.GenerateResource.Cache
+F:\Project\Tula\Maynaprom\Code HMI\ROM_automatic_UI\HMI Label And Editor Control\bin\Debug\How to create HMI Control Real-Time.exe.config
+F:\Project\Tula\Maynaprom\Code HMI\ROM_automatic_UI\HMI Label And Editor Control\obj\Debug\How to create HMI Control Real-Time.exe
+F:\Project\Tula\Maynaprom\Code HMI\ROM_automatic_UI\HMI Label And Editor Control\obj\Debug\How to create HMI Control Real-Time.pdb
