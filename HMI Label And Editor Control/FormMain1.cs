@@ -136,6 +136,7 @@ namespace How_to_create_HMI_Control_Real_Time
         int Full_Stack_Rom =0;
         int ROM_WRITED = 0;
         //private Register _Register = null;
+        Bitmap TULA = new Bitmap(650, 550);
         public FormMain()
         {
             InitializeComponent();
@@ -159,7 +160,7 @@ namespace How_to_create_HMI_Control_Real_Time
             try
             {
 
-                MB = new ModbusClient("COM39");
+                MB = new ModbusClient("COM4");
                 MB.UnitIdentifier = 1;
                 MB.Baudrate = 115200;
                 MB.Parity = System.IO.Ports.Parity.None;
@@ -1686,6 +1687,7 @@ namespace How_to_create_HMI_Control_Real_Time
         {
             byte[] val16 = new byte[2];
             ushort val = 0;
+            #region Data process
             //=============================  DATA IC_STACK ========================================//
             byte[] IC_data = File.ReadAllBytes("IC_Stack.tula");
 
@@ -1845,14 +1847,19 @@ namespace How_to_create_HMI_Control_Real_Time
             val = BitConverter.ToUInt16(val16, 0);
             DOWN_OK.Text = val.ToString();
             //========================= line ======================
+            #endregion
             Draw_line_worktable();
 
         }
         void Draw_line_worktable()
         {
-            Graphics d = WorkTable.CreateGraphics();
+           // Graphics d = WorkTable.CreateGraphics();
             Pen PenBlue = new Pen(System.Drawing.Color.Blue, 10);
             Pen PenRed = new Pen(System.Drawing.Color.Red, 10);
+
+
+            Bitmap tmp = new Bitmap(450, 450);
+            Graphics d = Graphics.FromImage(tmp);
             d.DrawLine(PenBlue, 220, 344, 220, 180);
             d.DrawLine(PenBlue, 220, 185, 280, 185);
 
@@ -1861,6 +1868,20 @@ namespace How_to_create_HMI_Control_Real_Time
 
             d.DrawLine(PenBlue, 320, 180, 320, 20);
             d.DrawLine(PenBlue, 315, 20, 360, 20);
+
+            TULA = MergedBitmaps(TULA, tmp);
+            WorkTable.BackgroundImage = TULA;
+        }
+        private Bitmap MergedBitmaps(Bitmap bmp1, Bitmap bmp2)
+        {
+            Bitmap result = new Bitmap(Math.Max(bmp1.Width, bmp2.Width),
+                                       Math.Max(bmp1.Height, bmp2.Height));
+            using (Graphics g = Graphics.FromImage(result))
+            {
+                g.DrawImage(bmp2, Point.Empty);
+                g.DrawImage(bmp1, Point.Empty);
+            }
+            return result;
         }
         private void ROM_Stack_Start_Click(object sender, EventArgs e)
         {
@@ -2466,7 +2487,15 @@ namespace How_to_create_HMI_Control_Real_Time
 
         private void Speed_choice_SelectedValueChanged(object sender, EventArgs e)
         {
-            MB.WriteSingleRegister(_Add_SPEED, int.Parse(Speed_choice.SelectedItem.ToString()));
+            try
+            {
+                MB.WriteSingleRegister(_Add_SPEED, int.Parse(Speed_choice.SelectedItem.ToString()));
+            }
+            catch
+            {
+                MessageBox.Show("Edit speed er");
+            }
+                
         }
 
         private void HOME_Click(object sender, EventArgs e)

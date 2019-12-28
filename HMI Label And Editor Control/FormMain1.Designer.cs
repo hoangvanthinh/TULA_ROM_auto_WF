@@ -1518,7 +1518,7 @@
             this.WorkTable.Controls.Add(this.NG_Stack);
             this.WorkTable.Location = new System.Drawing.Point(255, 146);
             this.WorkTable.Name = "WorkTable";
-            this.WorkTable.Size = new System.Drawing.Size(637, 540);
+            this.WorkTable.Size = new System.Drawing.Size(650, 550);
             this.WorkTable.TabIndex = 122;
             this.WorkTable.TabStop = false;
             // 
